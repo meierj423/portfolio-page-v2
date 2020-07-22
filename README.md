@@ -15,3 +15,4 @@ See URL to demo site: https://meierj423.github.io/responsive-portfolio/
 ![](about-me-page.png)
 ![](portfolio-page.png)
 ![](contact-page.png)
+
